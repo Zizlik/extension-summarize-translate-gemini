@@ -1,140 +1,140 @@
 {
-  "extension_name": {
-    "message": "Shrnout a přeložit s Gemini"
-  },
-  "extension_description": {
-    "message": "Shrnout a přeložit webové stránky. Používá Gemini jako backend."
-  },
-  "popup_button_copy": {
-    "message": "Kopírovat"
-  },
-  "popup_copied": {
-    "message": "Zkopírováno."
-  },
-  "popup_button_run": {
-    "message": "Spustit znovu"
-  },
-  "popup_button_results": {
-    "message": "Otevřít výsledky v nové záložce"
-  },
-  "popup_button_options": {
-    "message": "Otevřít stránku s možnostmi"
-  },
-  "popup_summarizing": {
-    "message": "Shrnutí"
-  },
-  "popup_summarizing_captions": {
-    "message": "Shrnutí titulků"
-  },
-  "popup_summarizing_image": {
-    "message": "Shrnutí obrázku"
-  },
-  "popup_translating": {
-    "message": "Překládání"
-  },
-  "popup_translating_captions": {
-    "message": "Překládání titulků"
-  },
-  "popup_translating_image": {
-    "message": "Překládání obrázku"
-  },
-  "popup_processing": {
-    "message": "Zpracovávání"
-  },
-  "popup_prompt_blocked": {
-    "message": "Příkaz byl zablokován."
-  },
-  "popup_response_blocked": {
-    "message": "Odpověď byla zablokována."
-  },
-  "popup_unexpected_response": {
-    "message": "Došlo k neznámé chybě. Zkontrolujte prosím konzolový log."
-  },
-  "popup_miscellaneous_error": {
-    "message": "Tuto stránku nelze shrnout ani přeložit."
-  },
-  "results_title": {
-    "message": "Výsledky - Shrnutí a překlad s Gemini"
-  },
-  "results_button_clear": {
-    "message": "Vymazat konverzaci"
-  },
-  "results_button_copy": {
-    "message": "Kopírovat"
-  },
-  "results_copied": {
-    "message": "Zkopírováno."
-  },
-  "results_button_send": {
-    "message": "Odeslat"
-  },
-  "results_waiting_response": {
-    "message": "Čekání na odpověď"
-  },
-  "results_prompt_blocked": {
-    "message": "Příkaz byl zablokován."
-  },
-  "results_response_blocked": {
-    "message": "Odpověď byla zablokována."
-  },
-  "results_unexpected_response": {
-    "message": "Došlo k neznámé chybě. Zkontrolujte prosím konzolový log."
-  },
-  "options_title": {
-    "message": "Možnosti - Shrnutí a překlad s Gemini"
-  },
-  "options_apikey": {
-    "message": "Gemini API klíč"
-  },
-  "options_apikey_hint": {
-    "message": "Gemini API klíč můžete získat na následující stránce."
-  },
-  "options_model": {
-    "message": "Jazykový model"
-  },
-  "options_language": {
-    "message": "Shrnout do / Přeložit do"
-  },
-  "options_language_user": {
-    "message": "Jazyk zadaný uživatelem"
-  },
-  "options_language_notes": {
-    "message": "Nastavení jazyka se nepoužívá u vlastních akcí."
-  },
-  "options_no_text_action": {
-    "message": "Pokud není vybrán žádný text, proveďte následující akci"
-  },
-  "options_no_text_summarize": {
-    "message": "Shrnout (výchozí)"
-  },
-  "options_no_text_translate": {
-    "message": "Přeložit"
-  },
-  "options_no_text_custom": {
-    "message": "Vlastní akce"
-  },
-  "options_text_action": {
-    "message": "Pokud je vybrán text, proveďte následující akci"
-  },
-  "options_text_summarize": {
-    "message": "Shrnout"
-  },
-  "options_text_translate": {
-    "message": "Přeložit (výchozí)"
-  },
-  "options_text_custom": {
-    "message": "Vlastní akce"
-  },
-  "options_streaming": {
-    "message": "Streamovaný výstup z jazykového modelu"
-  },
-  "options_theme": {
-    "message": "Téma"
-  },
-  "options_button_save": {
-    "message": "Uložit možnosti"
-  },
-  "options_saved": {
-    "message": "Uloženo."
-  }
+    "extension_name": {
+        "message": "Summarize and Translate with Gemini"
+    },
+    "extension_description": {
+        "message": "Summarize and translate web pages. Uses Gemini as the backend."
+    },
+    "popup_button_copy": {
+        "message": "Copy"
+    },
+    "popup_copied": {
+        "message": "Copied."
+    },
+    "popup_button_run": {
+        "message": "Run it again"
+    },
+    "popup_button_results": {
+        "message": "Open results in a new tab"
+    },
+    "popup_button_options": {
+        "message": "Open options page"
+    },
+    "popup_summarizing": {
+        "message": "Summarizing"
+    },
+    "popup_summarizing_captions": {
+        "message": "Summarizing the captions"
+    },
+    "popup_summarizing_image": {
+        "message": "Summarizing the image"
+    },
+    "popup_translating": {
+        "message": "Translating"
+    },
+    "popup_translating_captions": {
+        "message": "Translating the captions"
+    },
+    "popup_translating_image": {
+        "message": "Translating the image"
+    },
+    "popup_processing": {
+        "message": "Processing"
+    },
+    "popup_prompt_blocked": {
+        "message": "The prompt was blocked."
+    },
+    "popup_response_blocked": {
+        "message": "The response was blocked."
+    },
+    "popup_unexpected_response": {
+        "message": "An unknown error occurred. Please check the console log."
+    },
+    "popup_miscellaneous_error": {
+        "message": "This page cannot be summarized or translated."
+    },
+    "results_title": {
+        "message": "Results - Summarize and Translate with Gemini"
+    },
+    "results_button_clear": {
+        "message": "Clear conversation"
+    },
+    "results_button_copy": {
+        "message": "Copy"
+    },
+    "results_copied": {
+        "message": "Copied."
+    },
+    "results_button_send": {
+        "message": "Send"
+    },
+    "results_waiting_response": {
+        "message": "Waiting for a response"
+    },
+    "results_prompt_blocked": {
+        "message": "The prompt was blocked."
+    },
+    "results_response_blocked": {
+        "message": "The response was blocked."
+    },
+    "results_unexpected_response": {
+        "message": "An unknown error occurred. Please check the console log."
+    },
+    "options_title": {
+        "message": "Options - Summarize and Translate with Gemini"
+    },
+    "options_apikey": {
+        "message": "Gemini API Key"
+    },
+    "options_apikey_hint": {
+        "message": "You can obtain a Gemini API Key at the following page."
+    },
+    "options_model": {
+        "message": "Language Model"
+    },
+    "options_language": {
+        "message": "Summarize in / Translate to"
+    },
+    "options_language_user": {
+        "message": "User-specified Language"
+    },
+    "options_language_notes": {
+        "message": "The language setting is disregarded in custom actions."
+    },
+    "options_no_text_action": {
+        "message": "When no text is selected, do the following action"
+    },
+    "options_no_text_summarize": {
+        "message": "Summarize (default)"
+    },
+    "options_no_text_translate": {
+        "message": "Translate"
+    },
+    "options_no_text_custom": {
+        "message": "Custom action"
+    },
+    "options_text_action": {
+        "message": "When text is selected, do the following action"
+    },
+    "options_text_summarize": {
+        "message": "Summarize"
+    },
+    "options_text_translate": {
+        "message": "Translate (default)"
+    },
+    "options_text_custom": {
+        "message": "Custom action"
+    },
+    "options_streaming": {
+        "message": "Streaming output from the language model"
+    },
+    "options_theme": {
+        "message": "Theme"
+    },
+    "options_button_save": {
+        "message": "Save options"
+    },
+    "options_saved": {
+        "message": "Saved."
+    }
 }
