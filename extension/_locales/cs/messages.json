@@ -1,0 +1,107 @@
+{
+    "extension_name": {
+        "message": "Shrnutí a Překlad s Gemini"
+    },
+    "extension_description": {
+        "message": "Shrnutí a překlad webových stránek. Používá Gemini jako backend."
+    },
+    "popup_button_run": {
+        "message": "Spustit znovu"
+    },
+    "popup_button_results": {
+        "message": "Otevřít výsledky v nové záložce"
+    },
+    "popup_button_options": {
+        "message": "Otevřít stránku s možnostmi"
+    },
+    "popup_summarizing": {
+        "message": "Shrnování"
+    },
+    "popup_summarizing_captions": {
+        "message": "Shrnování titulků"
+    },
+    "popup_summarizing_image": {
+        "message": "Shrnování obrázku"
+    },
+    "popup_translating": {
+        "message": "Překládání"
+    },
+    "popup_translating_captions": {
+        "message": "Překládání titulků"
+    },
+    "popup_translating_image": {
+        "message": "Překládání obrázku"
+    },
+    "popup_processing": {
+        "message": "Zpracovávání"
+    },
+    "popup_prompt_blocked": {
+        "message": "Výzva byla zablokována."
+    },
+    "popup_response_blocked": {
+        "message": "Odpověď byla zablokována."
+    },
+    "popup_unexpected_response": {
+        "message": "Došlo k neznámé chybě. Zkontrolujte konzolový log."
+    },
+    "popup_miscellaneous_error": {
+        "message": "Tuto stránku nelze shrnout ani přeložit."
+    },
+    "results_title": {
+        "message": "Výsledky - Shrnutí a Překlad s Gemini"
+    },
+    "results_button_copy": {
+        "message": "Kopírovat"
+    },
+    "results_copied": {
+        "message": "Zkopírováno."
+    },
+    "options_title": {
+        "message": "Možnosti - Shrnutí a Překlad s Gemini"
+    },
+    "options_apikey": {
+        "message": "API Klíč Gemini"
+    },
+    "options_apikey_hint": {
+        "message": "API klíč Gemini můžete získat na následující stránce."
+    },
+    "options_model": {
+        "message": "Jazykový Model"
+    },
+    "options_language": {
+        "message": "Shrnutí v / Překlad do"
+    },
+    "options_language_notes": {
+        "message": "Nastavení jazyka je ignorováno u vlastních akcí."
+    },
+    "options_no_text_action": {
+        "message": "Když není vybrán žádný text, provést následující akci"
+    },
+    "options_no_text_summarize": {
+        "message": "Shrnout (výchozí)"
+    },
+    "options_no_text_translate": {
+        "message": "Přeložit"
+    },
+    "options_no_text_custom": {
+        "message": "Vlastní akce"
+    },
+    "options_text_action": {
+        "message": "Když je vybrán text, provést následující akci"
+    },
+    "options_text_summarize": {
+        "message": "Shrnout"
+    },
+    "options_text_translate": {
+        "message": "Přeložit (výchozí)"
+    },
+    "options_text_custom": {
+        "message": "Vlastní akce"
+    },
+    "options_button_save": {
+        "message": "Uložit možnosti"
+    },
+    "options_saved": {
+        "message": "Uloženo."
+    }
+}
