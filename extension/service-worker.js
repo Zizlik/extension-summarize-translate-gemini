@@ -3,6 +3,7 @@ import { getModelId, generateContent, streamGenerateContent } from "./utils.js";
 const getSystemPrompt = async (actionType, mediaType, languageCode, taskInputLength) => {
   const languageNames = {
     en: "English",
+    cs: "Czech",
     de: "German",
     es: "Spanish",
     fr: "French",
