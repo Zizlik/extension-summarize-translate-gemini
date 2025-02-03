@@ -39,6 +39,7 @@ const getCaptions = async (videoUrl, languageCode) => {
   // Return the captions of the YouTube video
   const languageCodeForCaptions = {
     en: "en",
+    cs: "cs",
     de: "de",
     es: "es",
     fr: "fr",
