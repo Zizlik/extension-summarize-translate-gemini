@@ -1,0 +1,188 @@
+{
+    "extension_name": {
+        "message": "Yhteenveto ja kääntäminen Geminillä"
+    },
+    "extension_description": {
+        "message": "Yhteenveto ja käännös verkkosivuille. Käyttää Geminiä taustalla."
+    },
+    "popup_button_copy": {
+        "message": "Kopioi"
+    },
+    "popup_copied": {
+        "message": "Kopioitu."
+    },
+    "popup_button_run": {
+        "message": "Suorita uudelleen"
+    },
+    "popup_button_results": {
+        "message": "Avaa tulokset uudessa välilehdessä"
+    },
+    "popup_button_options": {
+        "message": "Avaa asetukset"
+    },
+    "popup_summarizing": {
+        "message": "Yhteenveto käynnissä"
+    },
+    "popup_summarizing_captions": {
+        "message": "Tiivistetään tekstityksiä"
+    },
+    "popup_summarizing_image": {
+        "message": "Tiivistetään kuvaa"
+    },
+    "popup_translating": {
+        "message": "Käännetään"
+    },
+    "popup_translating_captions": {
+        "message": "Käännetään tekstityksiä"
+    },
+    "popup_translating_image": {
+        "message": "Käännetään kuvaa"
+    },
+    "popup_processing": {
+        "message": "Käsitellään"
+    },
+    "popup_prompt_blocked": {
+        "message": "Käsky estetty."
+    },
+    "popup_response_blocked": {
+        "message": "Vastaus estetty."
+    },
+    "popup_unexpected_response": {
+        "message": "Tuntematon virhe. Tarkista konsoliloki."
+    },
+    "popup_miscellaneous_error": {
+        "message": "Tätä sivua ei voi tiivistää tai kääntää."
+    },
+    "results_title": {
+        "message": "Tulokset – Yhteenveto ja kääntäminen Geminillä"
+    },
+    "results_button_clear": {
+        "message": "Tyhjennä keskustelu"
+    },
+    "results_button_copy": {
+        "message": "Kopioi"
+    },
+    "results_copied": {
+        "message": "Kopioitu."
+    },
+    "results_button_send": {
+        "message": "Lähetä"
+    },
+    "results_waiting_response": {
+        "message": "Odotetaan vastausta"
+    },
+    "results_prompt_blocked": {
+        "message": "Käsky estetty."
+    },
+    "results_response_blocked": {
+        "message": "Vastaus estetty."
+    },
+    "results_unexpected_response": {
+        "message": "Tuntematon virhe. Tarkista konsoliloki."
+    },
+    "options_title": {
+        "message": "Asetukset – Yhteenveto ja kääntäminen Geminillä"
+    },
+    "options_apikey": {
+        "message": "Gemini API-avain"
+    },
+    "options_apikey_hint": {
+        "message": "Voit hankkia Gemini API-avaimen seuraavalta sivulta."
+    },
+    "options_model": {
+        "message": "Kielimalli"
+    },
+    "options_model_user": {
+        "message": "Käyttäjän määrittämä malli"
+    },
+    "options_language": {
+        "message": "Tiivistä / käännä kielelle"
+    },
+    "options_language_user": {
+        "message": "Käyttäjän määrittämä kieli"
+    },
+    "options_language_notes": {
+        "message": "Kieliasetusta ei oteta huomioon mukautetuissa toiminnoissa."
+    },
+    "options_no_text_action": {
+        "message": "Kun tekstiä ei ole valittuna, suorita seuraava toiminto"
+    },
+    "options_no_text_summarize": {
+        "message": "Tiivistä (oletus)"
+    },
+    "options_no_text_translate": {
+        "message": "Käännä"
+    },
+    "options_no_text_custom_1": {
+        "message": "Mukautettu toiminto 1"
+    },
+    "options_no_text_custom_2": {
+        "message": "Mukautettu toiminto 2"
+    },
+    "options_no_text_custom_3": {
+        "message": "Mukautettu toiminto 3"
+    },
+    "options_no_text_custom_notes": {
+        "message": "Mukautettuja toimintoja voi kutsua myös kontekstivalikosta (vain työpöytäversiossa)."
+    },
+    "options_text_action": {
+        "message": "Kun teksti on valittuna, suorita seuraava toiminto"
+    },
+    "options_text_summarize": {
+        "message": "Tiivistä"
+    },
+    "options_text_translate": {
+        "message": "Käännä (oletus)"
+    },
+    "options_text_custom_1": {
+        "message": "Mukautettu toiminto 1"
+    },
+    "options_text_custom_2": {
+        "message": "Mukautettu toiminto 2"
+    },
+    "options_text_custom_3": {
+        "message": "Mukautettu toiminto 3"
+    },
+    "options_text_custom_notes": {
+        "message": "Mukautettuja toimintoja voi kutsua myös kontekstivalikosta (vain työpöytäversiossa)."
+    },
+    "options_contextmenus": {
+        "message": "Rekisteröi kontekstivalikkoon"
+    },
+    "options_streaming": {
+        "message": "Näytä kielimallin suoratoistettu tuloste"
+    },
+    "options_theme": {
+        "message": "Teema"
+    },
+    "options_button_save": {
+        "message": "Tallenna asetukset"
+    },
+    "options_saved": {
+        "message": "Tallennettu."
+    },
+    "options_export": {
+        "message": "Vie asetukset"
+    },
+    "options_export_api_key": {
+        "message": "Sisällytä API-avain"
+    },
+    "options_import": {
+        "message": "Tuo asetukset"
+    },
+    "options_import_failed": {
+        "message": "Tuonti epäonnistui."
+    },
+    "context_standard_action": {
+        "message": "Vakio-toiminto"
+    },
+    "context_custom_action_1": {
+        "message": "Mukautettu toiminto 1"
+    },
+    "context_custom_action_2": {
+        "message": "Mukautettu toiminto 2"
+    },
+    "context_custom_action_3": {
+        "message": "Mukautettu toiminto 3"
+    }
+}
