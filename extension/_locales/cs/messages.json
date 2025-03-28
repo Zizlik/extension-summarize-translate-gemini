@@ -1,0 +1,188 @@
+{
+    "extension_name": {
+        "message": "Shrnutí a překlad s Gemini"
+    },
+    "extension_description": {
+        "message": "Shrnujte a překládejte webové stránky. Využívá Gemini jako backend."
+    },
+    "popup_button_copy": {
+        "message": "Kopírovat"
+    },
+    "popup_copied": {
+        "message": "Zkopírováno."
+    },
+    "popup_button_run": {
+        "message": "Spustit znovu"
+    },
+    "popup_button_results": {
+        "message": "Otevřít výsledky v nové záložce"
+    },
+    "popup_button_options": {
+        "message": "Otevřít stránku nastavení"
+    },
+    "popup_summarizing": {
+        "message": "Shrnuji"
+    },
+    "popup_summarizing_captions": {
+        "message": "Shrnuji popisky"
+    },
+    "popup_summarizing_image": {
+        "message": "Shrnuji obrázek"
+    },
+    "popup_translating": {
+        "message": "Překládám"
+    },
+    "popup_translating_captions": {
+        "message": "Překládám popisky"
+    },
+    "popup_translating_image": {
+        "message": "Překládám obrázek"
+    },
+    "popup_processing": {
+        "message": "Zpracovávám"
+    },
+    "popup_prompt_blocked": {
+        "message": "Dotaz byl zablokován."
+    },
+    "popup_response_blocked": {
+        "message": "Odpověď byla zablokována."
+    },
+    "popup_unexpected_response": {
+        "message": "Došlo k neznámé chybě. Zkontrolujte konzoli."
+    },
+    "popup_miscellaneous_error": {
+        "message": "Tuto stránku nelze shrnout ani přeložit."
+    },
+    "results_title": {
+        "message": "Výsledky - Shrnout a Přeložit s Gemini"
+    },
+    "results_button_clear": {
+        "message": "Vymazat konverzaci"
+    },
+    "results_button_copy": {
+        "message": "Kopírovat"
+    },
+    "results_copied": {
+        "message": "Zkopírováno."
+    },
+    "results_button_send": {
+        "message": "Odeslat"
+    },
+    "results_waiting_response": {
+        "message": "Čeká se na odpověď"
+    },
+    "results_prompt_blocked": {
+        "message": "Dotaz byl zablokován."
+    },
+    "results_response_blocked": {
+        "message": "Odpověď byla zablokována."
+    },
+    "results_unexpected_response": {
+        "message": "Došlo k neznámé chybě. Zkontrolujte konzoli."
+    },
+    "options_title": {
+        "message": "Nastavení - Shrnout a Přeložit s Gemini"
+    },
+    "options_apikey": {
+        "message": "Gemini API klíč"
+    },
+    "options_apikey_hint": {
+        "message": "Gemini API klíč můžete získat na následující stránce."
+    },
+    "options_model": {
+        "message": "Jazykový model"
+    },
+    "options_model_user": {
+        "message": "Model zadaný uživatelem"
+    },
+    "options_language": {
+        "message": "Shrnout v / Přeložit do"
+    },
+    "options_language_user": {
+        "message": "Jazyk zadaný uživatelem"
+    },
+    "options_language_notes": {
+        "message": "Nastavení jazyka se v uživatelských akcích ignoruje."
+    },
+    "options_no_text_action": {
+        "message": "Pokud není vybrán žádný text, proveďte následující akci"
+    },
+    "options_no_text_summarize": {
+        "message": "Shrnout (výchozí)"
+    },
+    "options_no_text_translate": {
+        "message": "Přeložit"
+    },
+    "options_no_text_custom_1": {
+        "message": "Vlastní akce 1"
+    },
+    "options_no_text_custom_2": {
+        "message": "Vlastní akce 2"
+    },
+    "options_no_text_custom_3": {
+        "message": "Vlastní akce 3"
+    },
+    "options_no_text_custom_notes": {
+        "message": "Vlastní akce lze také vyvolat z kontextové nabídky (pouze pro stolní verzi)."
+    },
+    "options_text_action": {
+        "message": "Pokud je vybrán text, proveďte následující akci"
+    },
+    "options_text_summarize": {
+        "message": "Shrnout"
+    },
+    "options_text_translate": {
+        "message": "Přeložit (výchozí)"
+    },
+    "options_text_custom_1": {
+        "message": "Vlastní akce 1"
+    },
+    "options_text_custom_2": {
+        "message": "Vlastní akce 2"
+    },
+    "options_text_custom_3": {
+        "message": "Vlastní akce 3"
+    },
+    "options_text_custom_notes": {
+        "message": "Vlastní akce lze také vyvolat z kontextové nabídky (pouze pro stolní verzi)."
+    },
+    "options_contextmenus": {
+        "message": "Zaregistrovat do kontextové nabídky"
+    },
+    "options_streaming": {
+        "message": "Průběžný výstup z jazykového modelu"
+    },
+    "options_theme": {
+        "message": "Motiv"
+    },
+    "options_button_save": {
+        "message": "Uložit nastavení"
+    },
+    "options_saved": {
+        "message": "Uloženo."
+    },
+    "options_export": {
+        "message": "Exportovat nastavení"
+    },
+    "options_export_api_key": {
+        "message": "Zahrnout API klíč"
+    },
+    "options_import": {
+        "message": "Importovat nastavení"
+    },
+    "options_import_failed": {
+        "message": "Import se nezdařil."
+    },
+    "context_standard_action": {
+        "message": "Standardní akce"
+    },
+    "context_custom_action_1": {
+        "message": "Vlastní akce 1"
+    },
+    "context_custom_action_2": {
+        "message": "Vlastní akce 2"
+    },
+    "context_custom_action_3": {
+        "message": "Vlastní akce 3"
+    }
+}
